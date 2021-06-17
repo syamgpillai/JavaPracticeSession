@@ -1,4 +1,4 @@
-package OOPConcepts;
+package OOPConceptsPart1;
 
 public class LocalVsGlobalVariables {
 

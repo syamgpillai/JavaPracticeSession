@@ -1,4 +1,4 @@
-package OOPConcepts;
+package OOPConceptsPart1;
 
 public class WrapperClassConcepts {
 
@@ -32,6 +32,10 @@ public class WrapperClassConcepts {
 		System.out.println(m+10);
 		String st = String.valueOf(m);
 		System.out.println(st+10);
+		
 	}
 
+	
+		//for string to integer conversion, value should be pure numeric else will occur NumberFormatException
+	
 }
