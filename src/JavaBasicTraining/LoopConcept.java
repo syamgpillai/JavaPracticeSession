@@ -10,7 +10,8 @@ public class LoopConcept {
 		int i = 1;
 		while (i<=10) {
 			System.out.println(i);
-			i++; //disadvantage of while loop is, if we miss this incremental/decremental part, it will become an infinit loop
+			i++; /*disadvantage of while loop is, if we miss this incremental/decremental 
+			part, it will become an infinit loop*/
 		}
 		
 		//for loop
